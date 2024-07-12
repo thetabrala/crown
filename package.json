@@ -1,0 +1,22 @@
+{
+  "name": "crown",
+  "version": "1.0.0",
+  "description": "a lisp crown on the head of javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node t.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetabrala/crown.git"
+  },
+  "keywords": [
+    "lisp"
+  ],
+  "author": "James Marshall-Gunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thetabrala/crown/issues"
+  },
+  "homepage": "https://github.com/thetabrala/crown#readme"
+}

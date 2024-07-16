@@ -1,5 +1,5 @@
 {
-  "name": "crown",
+  "name": "crown-lisp",
   "version": "1.0.0",
   "description": "a lisp crown on the head of javascript",
   "main": "index.js",
